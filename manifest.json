@@ -3,7 +3,7 @@
         "short_name": "PORTFOLIO",
         "description": "manoj cha Portfolio. having experience as frontend developer",
         "orientation": "portrait",
-        "start_url": "/banner",
+        "start_url": "/onebanner",
         "background_color": "#F00",
         "theme_color": "#0FF",
         "display": "fullscreen",
