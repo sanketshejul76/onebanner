@@ -1,0 +1,82 @@
+    {
+        "name": "manoj Portfolio",
+        "short_name": "PORTFOLIO",
+        "description": "manoj cha Portfolio. having experience as frontend developer",
+        "orientation": "portrait",
+        "start_url": "/banner",
+        "background_color": "#F00",
+        "theme_color": "#0FF",
+        "display": "fullscreen",
+        "shortcuts": [
+            {
+                "name": "learn About Us",
+                "short_name": "About",
+                "description": "lorem ipsum",
+                "url": "./about.html",
+                "icons": [
+                    {
+                        "src": "./assests/images/SKILLHUB-192-192.png",
+                        "type": "image/png",
+                        "sizes": "192x192"
+                    }
+                ]
+            },
+            {
+                "name": "get in touch with us",
+                "short_name": "contact",
+                "description": "contact lorem ipsum",
+                "url": "./contact.html",
+                "icons": [
+                    {
+                        "src": "./assests/images/SKILLHUB-192-192.png",
+                        "type": "image/png",
+                        "sizes": "192x192"
+                    }
+                ]
+            }
+        ],
+        "icons": [
+            {
+                "src": "./assests/images/SKILLHUB-48-48.png",
+                "type": "image/png",
+                "sizes": "48x48"
+            },
+            {
+                "src": "./assests/images/SKILLHUB-72-72.png",
+                "type": "image/png",
+                "sizes": "72x72"
+            },
+            {
+                "src": "./assests/images/SKILLHUB-96-96.png",
+                "type": "image/png",
+                "sizes": "96x96"
+            },
+            {
+                "src": "./assests/images/SKILLHUB-144-144.png",
+                "type": "image/png",
+                "sizes": "144x144"
+            },
+            {
+                "src": "./assests/images/SKILLHUB-192-192.png",
+                "type": "image/png",
+                "sizes": "192x192"
+            },
+            {
+                "src": "./assests/images/SKILLHUB-512-512.png",
+                "type": "image/png",
+                "sizes": "512x512"
+            }
+        ],
+        "screenshots": [
+            {
+                "src": "./assests/images/screenshots.jpeg",
+                "type": "image/jpeg",
+                "sizes": "1366x768"
+            },
+            {
+                "src": "./assests/images/screenshots-1.jpeg",
+                "type": "image/jpeg",
+                "sizes": "1366x768"
+            }
+        ]
+    }
